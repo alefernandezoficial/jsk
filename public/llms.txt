@@ -41,7 +41,7 @@ First-contact initiator and high-tempo rifler specialized in site opening duels,
 - **Steam Launch Options**: -high -novid -nojoy -allow_third_party_software -console +exec autoexec.vcfg
 
 ## Verified Profiles & Contact
-- **Official Portfolio**: https://jsk.vercel.app/
+- **Official Portfolio**: https://jsk1337.vercel.app/
 - **HLTV**: https://www.hltv.org/profile/462055/jsk1337
 - **Liquipedia**: https://liquipedia.net/counterstrike/User:Jsk1337
 - **GamersClub**: https://gamersclub.com.br/jogador/34165
