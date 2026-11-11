@@ -1,0 +1,55 @@
+# JSK (Alejandro Fernandez) — Counter-Strike 2 Esports Player Dossier
+
+> Official concise competitive dossier and verified player profile for Alejandro Fernandez "JSK".
+
+## Identity & Core Facts
+- **Nickname**: JSK
+- **Real Name**: Alejandro Fernandez
+- **Discipline**: Counter-Strike 2 (CS2)
+- **Primary Tactical Role**: Entry Fragger / Rifler
+- **Secondary Role**: Lurker / Coach
+- **Nationality**: Argentine
+- **Country & Location**: Rosario, Santa Fe, Argentina
+- **Current Status**: Free Agent / Stand by (Available for international & South American team offers)
+- **Languages**: Spanish (Native)
+- **Competitive Experience**: 24+ years active (Since 2001, CS 1.5 to CS2)
+
+## Tactical Profile
+First-contact initiator and high-tempo rifler specialized in site opening duels, space creation, and lurk timings. Decades of competitive LAN and online experience across all iterations of Counter-Strike (1.5, 1.6, Global Offensive, CS2).
+
+## Competitive Ranks
+- **FACEIT**: Level 9 (1,820 ELO) — Verified
+- **GamersClub**: Level 20 (2,902 ELO) — Verified
+
+## Key Tournament Records
+- **Copa Profesional Sudamericana (2024, CS2)**: 1st Place (Champion)
+- **ReDragon Battle Series S1 (2024, CS2)**: 2nd Place
+- **Torneo CSGO LAN PuntoNet (2014, CS:GO)**: 1st Place
+- **Liga Open GamersClub (2019, CS:GO)**: 2nd Place
+- **Challenge The Stars LAN (CS 1.6)**: 1st Place (Qualy) / 2nd Place
+- **Cyber Andromeda & Hardex LANs (CS 1.5)**: Multiple 1st Places
+
+## Technical Gaming Configuration (CS2)
+- **Mouse**: Logitech G PRO X Superlight White
+- **DPI**: 1600
+- **In-Game Sensitivity**: 0.40
+- **eDPI**: 640
+- **Polling Rate**: 1000 Hz
+- **Resolution**: 1280 × 960 (4:3 Estirada)
+- **Refresh Rate**: 144 Hz (ASUS VG248QE)
+- **Official Crosshair Code**: CSGO-uFqQx-r4y4X-T88Z8-q6vC8-XwJ5O
+- **Steam Launch Options**: -high -novid -nojoy -allow_third_party_software -console +exec autoexec.vcfg
+
+## Verified Profiles & Contact
+- **Official Portfolio**: https://jsk.vercel.app/
+- **HLTV**: https://www.hltv.org/profile/462055/jsk1337
+- **Liquipedia**: https://liquipedia.net/counterstrike/User:Jsk1337
+- **GamersClub**: https://gamersclub.com.br/jogador/34165
+- **FACEIT**: https://www.faceit.com/es/players/jsk_cs
+- **ChallengerMode**: https://www.challengermode.com/users/eab6cb63-803c-40d7-a328-70ce07e8f147
+- **Twitch**: https://www.twitch.tv/SoloHabilidad
+- **Kick**: https://www.kick.com/SoloHabilidad
+- **YouTube**: https://www.youtube.com/c/jsk1337
+- **Instagram**: https://www.instagram.com/ale.jsk
+- **X**: https://www.x.com/jsk_ale
+- **Inquiries / Trials**: ale.fernandez.jsk@gmail.com

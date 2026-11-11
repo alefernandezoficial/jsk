@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Explicit AI Search Engine Crawlers & Assistants
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://jsk.vercel.app/sitemap.xml
+# LLM Context File
+# https://llmstxt.org/
+# https://jsk.vercel.app/llms.txt

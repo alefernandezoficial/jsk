@@ -1,0 +1,6 @@
+{
+  "name": "JSK — Portafolio Esports CS2",
+  "description": "Portafolio competitivo oficial de Ale 'JSK' Fernández — Jugador profesional de Counter-Strike 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
